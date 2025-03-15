@@ -1,4 +1,3 @@
-### Repository Name  
 **E-Commerce Data Pipeline with MySQL**
 
 ---
